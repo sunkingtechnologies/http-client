@@ -1,0 +1,16 @@
+{
+  "name": "sunkingtechnologies/http-client",
+  "description": "PHP http client.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alagesan",
+      "email":"alagesanbe08@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SunKing\\": "src/"
+    }
+  }
+}
